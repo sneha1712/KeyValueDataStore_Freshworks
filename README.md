@@ -6,11 +6,11 @@ A Java Application for Key-Value Data Store
 1.create  
 arguments(3)-key, value and Time to Live  
 to check the presence of key in data store and if not , key is created  
-
-2.read
-arguments(1)-key
-to check the presence of given key and to retrieve its particular value 
-
-3.delete
-argument(1)-key
-to check the presence of given key and to delete the key-value pair
+  
+2.read  
+arguments(1)-key  
+to check the presence of given key and to retrieve its particular value   
+  
+3.delete  
+argument(1)-key  
+to check the presence of given key and to delete the key-value pair  
