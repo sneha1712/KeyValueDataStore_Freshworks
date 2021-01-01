@@ -16,3 +16,6 @@ to check the presence of given key and to retrieve its particular value
 3.delete  
 argument(1)-key  
 to check the presence of given key and to delete the key-value pair  
+  
+  
+Unit Testing is also carried out using JUnit Test Case
